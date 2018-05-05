@@ -13,11 +13,11 @@
 void foo(const std::string &filename);
 
 int main(int argc, char* argv[]) {
-    std::string filename[8]={"datasample.txt"};
+    std::string filename={"datasample.txt"};
     //for(int i = 0; i < 8; i++)
     //{
-        std::cout<<filename[0]<<std::endl;
-        foo(filename[0]);
+        std::cout<<filename<<std::endl;
+        foo(filename);
     //}
     return 0;
 }
