@@ -13,7 +13,7 @@
 void foo(const std::string &filename);
 
 int main(int argc, char* argv[]) {
-    std::string filename[8]={"14.txt", "29.txt", "51.txt", "100.txt", "200.txt","400.txt","1000.txt","2103.txt"};
+    std::string filename[8]={"datasample.txt"};
     //for(int i = 0; i < 8; i++)
     //{
         std::cout<<filename[0]<<std::endl;
