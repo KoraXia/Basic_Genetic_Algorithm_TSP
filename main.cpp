@@ -13,7 +13,7 @@
 void foo(const std::string &filename);
 
 int main(int argc, char* argv[]) {
-    std::string filename={"datasample.txt"};
+    std::string filename="datasample.txt";
     //for(int i = 0; i < 8; i++)
     //{
         std::cout<<filename<<std::endl;
