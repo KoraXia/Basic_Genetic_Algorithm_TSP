@@ -11,7 +11,8 @@ Special thanks to Zichen Zhu.
 
 ### Evolution
 Fitness Funtion:
-$$ fitting value = \frac{1.0}{PathLength} $$
+fitting value = 1.0/PathLength
+
 ### Selection
 Roulette Wheel Selection
 ### Crossover
