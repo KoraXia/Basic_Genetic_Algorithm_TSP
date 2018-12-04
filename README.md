@@ -4,7 +4,7 @@ Special thanks to Zichen Zhu.
 
 ## How to run on linux/unix:
 ```ruby
-        make -f rules
+        make
         ./GA
 ```
 ## Method
